@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541608258822",
+    "firebase_url": "https://react-native-notificatio-c943e.firebaseio.com",
+    "project_id": "react-native-notificatio-c943e",
+    "storage_bucket": "react-native-notificatio-c943e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541608258822:android:90621f1b20f91759",
+        "android_client_info": {
+          "package_name": "com.reactnativenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541608258822-slv7g13at4hdf3s14bucotb2qmno2hs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYHHgyxEE0EWBtu9j2u2vfrM01WzCvYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
